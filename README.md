@@ -2,6 +2,7 @@ Pixi Renderer
 =============
 
 Practicing with git. - Jason
+Practice 2.
 
 ![pixi.js logo](http://www.goodboydigital.com/pixijs/logo_small.png) 
 
