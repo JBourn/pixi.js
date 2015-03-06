@@ -1,6 +1,8 @@
 Pixi Renderer 
 =============
 
+Practicing with git. - Jason
+
 ![pixi.js logo](http://www.goodboydigital.com/pixijs/logo_small.png) 
 
 ### Like what we do? ###
